@@ -29,6 +29,7 @@ For example, the result of Ljung-Box test for square of residuals for CIT is sho
 ![image](https://github.com/alice-heqi/Financial-Econometrics-Exploratory-Research-Project/blob/main/image/box_test-CIT%5E2%20copy.png)
 
 The next step was to determine the order of the ARCH model. ACF and PACF plots were made for the squares of residuals calculated in the previous step. From the plots, I found different banks have different optimal orders but all of them have long term autocorrelation. Take bank BOH as example, the ACF and PACF of its square residual are as below:
+
 ![image](https://github.com/alice-heqi/Financial-Econometrics-Exploratory-Research-Project/blob/main/image/acf-boh-v%20copy.png)
 ![image](https://github.com/alice-heqi/Financial-Econometrics-Exploratory-Research-Project/blob/main/image/pacf-boh-v%20copy.png)
 
